@@ -1,7 +1,7 @@
-package test;
+package src.test;
 
-import books.*;
-import store.*;
+import src.books.*;
+import src.store.*;
 
 import java.util.List;
 
@@ -16,7 +16,7 @@ public class QuantumBookstoreTest {
         store.addBook(new EBook("222", "Learn Python", "Alice Smith", 2020, 100.0, "PDF"));
         store.addBook(new DemoBook("333", "C++ Preview", "Mark Lee", 2010, 0.0));
 
-        System.out.println("Quantum book store: Added 3 books.");
+        System.out.println("Quantum book store: Added 3 src.books.");
 
         // Try to buy a PaperBook (valid)
         double amount1 = store.buyBook("111", 2, "test@mail.com", "123 Street");

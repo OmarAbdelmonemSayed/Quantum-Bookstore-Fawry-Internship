@@ -1,7 +1,7 @@
-package books;
+package src.books;
 
-import books.interfaces.Buyable;
-import services.MailService;
+import src.books.interfaces.Buyable;
+import src.services.MailService;
 
 public class EBook extends Book implements Buyable {
     private String fileType;

@@ -1,6 +1,6 @@
-package services;
+package src.services;
 
-import books.Book;
+import src.books.Book;
 
 public class ShippingService {
     public static void shipping(Book book, String address) {

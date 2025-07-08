@@ -1,4 +1,4 @@
-package books;
+package src.books;
 
 public class DemoBook extends Book {
     public DemoBook() {}

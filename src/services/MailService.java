@@ -1,6 +1,6 @@
-package services;
+package src.services;
 
-import books.Book;
+import src.books.Book;
 
 public class MailService {
     public static void send(Book book, String email) {

@@ -1,7 +1,7 @@
-package store;
+package src.store;
 
-import books.Book;
-import books.interfaces.Buyable;
+import src.books.Book;
+import src.books.interfaces.Buyable;
 
 import java.util.*;
 

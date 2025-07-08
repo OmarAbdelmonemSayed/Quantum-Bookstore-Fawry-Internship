@@ -1,4 +1,4 @@
-package books;
+package src.books;
 
 public class Book {
     protected String ISBN;

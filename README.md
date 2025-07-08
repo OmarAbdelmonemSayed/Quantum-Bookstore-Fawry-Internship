@@ -30,20 +30,23 @@ Quantum Bookstore is a simple, Java console-based system that manages various ty
 ![Class Diagram](assets/class_diagram.png)
 ---
 ## Project Structure
-- `books/`
-    - `Book.java`
-    - `DemoBook.java`
-    - `EBook.java`
-    - `PaperBook.java`
-    - `interfaces/`
-        - `Buyable.java`
-- `services/`
-    - `MailService.java`
-    - `ShippingService.java`
-- `store/`
-    - `BookStore.java`
-- `test/`
-    - `QuantumBookstoreTest.java`
+- `src/`
+  - `books/`
+      - `Book.java`
+      - `DemoBook.java`
+      - `EBook.java`
+      - `PaperBook.java`
+      - `interfaces/`
+          - `Buyable.java`
+  - `services/`
+      - `MailService.java`
+      - `ShippingService.java`
+  - `store/`
+      - `BookStore.java`
+  - `test/`
+      - `QuantumBookstoreTest.java`
+- `assets`
+  - `class_diagram.png`
 ---
 ## Testing
 

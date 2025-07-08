@@ -1,7 +1,7 @@
-package books;
+package src.books;
 
-import books.interfaces.Buyable;
-import services.ShippingService;
+import src.books.interfaces.Buyable;
+import src.services.ShippingService;
 
 public class PaperBook extends Book implements Buyable {
     private int stock;
