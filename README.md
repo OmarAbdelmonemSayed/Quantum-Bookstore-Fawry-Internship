@@ -1,6 +1,6 @@
 # Quantum Bookstore
 
-Quantum Bookstore is a simple Java console-based system that manages different types of books — physical, digital, and demo. It demonstrates clean object-oriented design with inheritance, interfaces, and exception handling.
+Quantum Bookstore is a simple, Java console-based system that manages various types of books, including physical, digital, and demo. It demonstrates clean object-oriented design with inheritance, interfaces, and exception handling.
 
 ---
 
